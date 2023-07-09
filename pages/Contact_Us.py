@@ -34,7 +34,7 @@ message = st.text_area("Message")
 host = "smtp.gmail.com"
 port = 465
 # Receiver email address
-receiver_email = "mohammahhammadansari07@gmail.com"
+receiver_email = "mohammadhammadansari07@gmail.com"
 
 # Password and username
 # password = os.getenv("PASSWORD")
